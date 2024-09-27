@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+    margin: 3 rem auto;
+    /* background-color: rgb(96, 194, 161); */
+}
+
+header img{
+    width: 5rem;
+    height: 5rem;   
+    object-fit: contain;
+    background-color: rgb(97, 162, 111) ;
+    /* background-color: transparent; */
+}
+
+header h1 {
+    font-size: 1.5 rem;
+}
